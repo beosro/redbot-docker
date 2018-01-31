@@ -20,7 +20,8 @@
         "node-red-node-msgpack": "*",
         "node-red-node-base64": "*",
         "node-red-node-random": "*",
-        "node-red-node-contrib-chatbot": "*"
+        "node-red-contrib-chatbot": "*",
+        "node-red-admin": "*"
     },
     "engines": {
         "node": "4.*.*"
