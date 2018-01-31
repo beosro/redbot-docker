@@ -17,8 +17,11 @@ USER node-red
 
 # package.json contains Node-RED NPM module and node dependencies
 COPY package.json /usr/src/node-red/
+
 RUN npm install
 
+# Copy password enabled config
+COPY settings.json /data/
 
 #RUN npm install node-red-admin
 #USER node-red
