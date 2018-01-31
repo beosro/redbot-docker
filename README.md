@@ -1,4 +1,4 @@
-# Node-RED-Docker
+# RedBot-Docker
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/node-red/node-red-docker.svg)](https://greenkeeper.io/)
 
